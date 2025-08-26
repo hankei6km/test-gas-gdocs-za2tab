@@ -1,0 +1,5 @@
+{
+  "name": "clasp_test-gdocs-gas-za2tab",
+  "image": "ghcr.io/hankei6km/h6-dev-containers/images:clasp_latest",
+  "remoteUser": "devcontainer"
+}
